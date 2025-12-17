@@ -1,0 +1,14 @@
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/Students.GeneratedMSBuildEditorConfig.editorconfig
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/Students.AssemblyInfoInputs.cache
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/Students.AssemblyInfo.cs
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/Students.csproj.CoreCompileInputs.cache
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/bin/Debug/net10.0/Students
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/bin/Debug/net10.0/Students.deps.json
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/bin/Debug/net10.0/Students.runtimeconfig.json
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/bin/Debug/net10.0/Students.dll
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/bin/Debug/net10.0/Students.pdb
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/Students.dll
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/refint/Students.dll
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/Students.pdb
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/Students.genruntimeconfig.cache
+/home/tawfik/Desktop/github/DEPI_DotNet_FullStack_Track/1.Introduction_to_C#/Lecture_2_Task/Students/obj/Debug/net10.0/ref/Students.dll
