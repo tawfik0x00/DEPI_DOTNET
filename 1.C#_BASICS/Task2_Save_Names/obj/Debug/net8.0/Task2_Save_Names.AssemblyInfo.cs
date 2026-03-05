@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task2_Save_Names")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c331f331a3aa29f29a7dc3ce61a509b8f5fa7029")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92d74e843d6c83bd5b1f48136e0f48267ead281f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task2_Save_Names")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task2_Save_Names")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
