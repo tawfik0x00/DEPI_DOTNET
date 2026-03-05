@@ -1,0 +1,15 @@
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/bin/Debug/net8.0/Task2_Save_Names
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/bin/Debug/net8.0/Task2_Save_Names.deps.json
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/bin/Debug/net8.0/Task2_Save_Names.runtimeconfig.json
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/bin/Debug/net8.0/Task2_Save_Names.dll
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/bin/Debug/net8.0/Task2_Save_Names.pdb
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.GeneratedMSBuildEditorConfig.editorconfig
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.AssemblyInfoInputs.cache
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.AssemblyInfo.cs
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.csproj.CoreCompileInputs.cache
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.sourcelink.json
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.dll
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/refint/Task2_Save_Names.dll
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.pdb
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/Task2_Save_Names.genruntimeconfig.cache
+/home/tawfik/Desktop/github_repos/DEPI_DOTNET/1.C#_BASICS/Task2_Save_Names/obj/Debug/net8.0/ref/Task2_Save_Names.dll
