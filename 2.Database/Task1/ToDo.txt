@@ -1,0 +1,68 @@
+My Work: 
+
+First Extract All The Entities will be in the system:
+
+Products:
+    PID,
+    name,
+    description,
+    price,
+    manufacturingDate,
+
+    Relation One Product should belong to only one Category. 1:1
+
+categories:
+    CID,
+    name,
+    description,
+
+    one category have possibly many Products 1 : M
+
+suppliers:
+    SID,
+    name,
+    phone number,
+    address,
+
+    Supplier Can Supply multiple Products and Product Can be Supplied by many suppliers M:M
+
+
+wherehouses:
+    id,
+    location,
+    capacity,
+
+    a product may be stored in multiple warehouses, and each warehouse may store many products, with the quantity of each product tracked per warehouse
+
+
+customer Orders:
+    OrderID,
+    OrderDate,
+    OrderStatus,
+
+    order may contain multiple products with specified quantities and unit prices.
+
+
+Order Items:
+    Order items cannot exist without their corresponding orders and products, ensuring data integrity throughout the system.
+
+
+Start Draw The ERD
+Create the schema
+Implement The schema
+Set a Sample Data
+Create a Simple Data Entry Application with C#
+
+
+
+ProductManagementDatabase
+│
+├── 1_ProblemStatement.md
+├── 2_RequirementAnalysis.md
+├── 3_ERD.png
+├── 4_RelationalSchema.md
+├── 5_DatabaseSchema.sql
+├── 6_SampleData.sql
+├── 7_Queries.sql
+├── 8_Views_Procedures.sql
+└── README.md
