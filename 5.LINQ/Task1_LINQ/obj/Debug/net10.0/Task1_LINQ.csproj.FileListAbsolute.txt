@@ -1,0 +1,14 @@
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/bin/Debug/net10.0/Task1_LINQ
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/bin/Debug/net10.0/Task1_LINQ.deps.json
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/bin/Debug/net10.0/Task1_LINQ.runtimeconfig.json
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/bin/Debug/net10.0/Task1_LINQ.dll
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/bin/Debug/net10.0/Task1_LINQ.pdb
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/Task1_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/Task1_LINQ.AssemblyInfoInputs.cache
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/Task1_LINQ.AssemblyInfo.cs
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/Task1_LINQ.csproj.CoreCompileInputs.cache
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/Task1_LINQ.dll
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/refint/Task1_LINQ.dll
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/Task1_LINQ.pdb
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/Task1_LINQ.genruntimeconfig.cache
+/home/tawfik/RiderProjects/LINQ_Tasks/Task1_LINQ/obj/Debug/net10.0/ref/Task1_LINQ.dll
