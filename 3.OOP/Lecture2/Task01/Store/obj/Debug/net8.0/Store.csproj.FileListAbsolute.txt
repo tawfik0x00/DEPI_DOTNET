@@ -1,0 +1,14 @@
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/bin/Debug/net8.0/Store
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/bin/Debug/net8.0/Store.deps.json
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/bin/Debug/net8.0/Store.runtimeconfig.json
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/bin/Debug/net8.0/Store.dll
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/bin/Debug/net8.0/Store.pdb
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/Store.GeneratedMSBuildEditorConfig.editorconfig
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/Store.AssemblyInfoInputs.cache
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/Store.AssemblyInfo.cs
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/Store.csproj.CoreCompileInputs.cache
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/Store.dll
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/refint/Store.dll
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/Store.pdb
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/Store.genruntimeconfig.cache
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task01/Store/obj/Debug/net8.0/ref/Store.dll

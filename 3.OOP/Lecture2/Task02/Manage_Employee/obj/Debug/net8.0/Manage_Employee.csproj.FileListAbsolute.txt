@@ -1,0 +1,14 @@
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/bin/Debug/net8.0/Manage_Employee
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/bin/Debug/net8.0/Manage_Employee.deps.json
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/bin/Debug/net8.0/Manage_Employee.runtimeconfig.json
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/bin/Debug/net8.0/Manage_Employee.dll
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/bin/Debug/net8.0/Manage_Employee.pdb
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/Manage_Employee.GeneratedMSBuildEditorConfig.editorconfig
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/Manage_Employee.AssemblyInfoInputs.cache
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/Manage_Employee.AssemblyInfo.cs
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/Manage_Employee.csproj.CoreCompileInputs.cache
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/Manage_Employee.dll
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/refint/Manage_Employee.dll
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/Manage_Employee.pdb
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/Manage_Employee.genruntimeconfig.cache
+/home/tawfik/Desktop/depi_tasks/3-OOP/Lecture2/Task02/Manage_Employee/obj/Debug/net8.0/ref/Manage_Employee.dll

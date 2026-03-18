@@ -1,0 +1,14 @@
+/home/tawfik/Desktop/OOP_Task/bin/Debug/net8.0/OOP_Task
+/home/tawfik/Desktop/OOP_Task/bin/Debug/net8.0/OOP_Task.deps.json
+/home/tawfik/Desktop/OOP_Task/bin/Debug/net8.0/OOP_Task.runtimeconfig.json
+/home/tawfik/Desktop/OOP_Task/bin/Debug/net8.0/OOP_Task.dll
+/home/tawfik/Desktop/OOP_Task/bin/Debug/net8.0/OOP_Task.pdb
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/OOP_Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/OOP_Task.AssemblyInfoInputs.cache
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/OOP_Task.AssemblyInfo.cs
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/OOP_Task.csproj.CoreCompileInputs.cache
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/OOP_Task.dll
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/refint/OOP_Task.dll
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/OOP_Task.pdb
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/OOP_Task.genruntimeconfig.cache
+/home/tawfik/Desktop/OOP_Task/obj/Debug/net8.0/ref/OOP_Task.dll

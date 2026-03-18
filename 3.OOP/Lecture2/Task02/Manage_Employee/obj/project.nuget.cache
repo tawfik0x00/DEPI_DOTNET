@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgO5m/D5tlo=",
+  "success": true,
+  "projectFilePath": "/home/tawfik/Desktop/DEPI/Tasks/Technical/C#_OOP/Lecture2/Task02/Manage_Employee/Manage_Employee.csproj",
+  "expectedPackageFiles": [
+    "/home/tawfik/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/tawfik/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/tawfik/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
