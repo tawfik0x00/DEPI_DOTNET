@@ -83,7 +83,7 @@ CREATE TABLE SuppliedProducts (
 );
 GO
 
-CREATE TABLE WareHouseProducts (
+CREATE TABLE WarehouseProducts (
     WarehouseID INT,
     ProductID INT,
     Quantity INT NOT NULL
